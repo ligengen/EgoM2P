@@ -77,6 +77,13 @@ Please refer to their respective pages for instructions on how to download them 
 
 ### EgoGen download instructions
 
+Download data from [here](https://egogen.ethz.ch/). You will need to first register yourself, and use the received temporary username and password for the download. 
+
+- egogen_for_egom2p.tar (1.93 GB) is the processed token we used in the pretraining. You can organize your dataset like this folder.
+- egom2p_*_ori.tar are the original EgoGen dataset. It contains RGB, depth and camera trajectories saved using scripts similar to [this](https://github.com/ligengen/EgoGen/blob/main/experiments/gen_egobody_depth.py).
+
+### Data processing
+
 We provided many useful functions in [gen_aligned_training_data.py](gen_aligned_training_data.py). They might be useful to process your own dataset.
 
 ## Pseudo labeling
