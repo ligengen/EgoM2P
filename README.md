@@ -102,7 +102,7 @@ The model weights in this repository are released under the Sample Code license 
 
 If you find this repository helpful, please consider citing our work:
 ```
-@InProceedings{Li_2025_ICCV,
+@InProceedings{li2025egom2p,
     author    = {Li, Gen and Chen, Yutong and Wu, Yiqian and Zhao, Kaifeng and Pollefeys, Marc and Tang, Siyu},
     title     = {EgoM2P: Egocentric Multimodal Multitask Pretraining},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
