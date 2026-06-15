@@ -4,7 +4,7 @@
 
 Official implementation and pre-trained models for :
 
-[**EgoM2P: Egocentric Multimodal Multitask Pretraining**](https://www.arxiv.org/abs/2506.07886), ICCV 2025 <br>
+[**EgoM2P: Egocentric Multimodal Multitask Pretraining**](https://www.arxiv.org/abs/2506.07886), ICCV 2025, 🏆 EgoVis Distinguished Paper Award <br>
 *[Gen Li](https://ligengen.github.io), [Yutong Chen](https://vlg.inf.ethz.ch/team/Yutong-Chen.html)\*, [Yiqian Wu](https://onethousandwu.com/)\*, [Kaifeng Zhao](https://zkf1997.github.io/)\*, [Marc Pollefeys](https://cvg.ethz.ch/team/Prof-Dr-Marc-Pollefeys), [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html)*
 
 <br>
