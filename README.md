@@ -73,6 +73,8 @@ See [README_INFERENCE.md](README_INFERENCE.md) for instructions on how to perfor
 
 ## Pretrained models
 
+Due to the Polybox outage, we provide the download via [huggingface](https://huggingface.co/GGGLLLL/EgoM2P/tree/main).
+
 ### EgoM2P model
 
 | Model   | # Mod. | Datasets | # Params | Config | Weights         |
